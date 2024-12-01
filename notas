@@ -1,0 +1,2 @@
+kubectl port-forward pod/frontend-deployment-594c97bc99-wtvpk 5174:5174
+kubectl port-forward pod/backend-deployment-588c9c6465-4cxlt 3000:3000
